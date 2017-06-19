@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  BradAPI.swift
 //  TingKS12
 //
 //  Created by user on 2017/6/19.
@@ -7,6 +7,3 @@
 //
 
 import Foundation
-
-
-
