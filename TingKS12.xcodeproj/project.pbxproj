@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CE7998181EF76A870024C1C2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7998171EF76A870024C1C2 /* main.swift */; };
 		CE79981F1EF76AAB0024C1C2 /* BradAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE79981E1EF76AAB0024C1C2 /* BradAPI.swift */; };
+		CE7998211EF76E570024C1C2 /* TestAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7998201EF76E570024C1C2 /* TestAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		CE7998141EF76A870024C1C2 /* TingKS12 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TingKS12; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7998171EF76A870024C1C2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CE79981E1EF76AAB0024C1C2 /* BradAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BradAPI.swift; sourceTree = "<group>"; };
+		CE7998201EF76E570024C1C2 /* TestAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				CE7998171EF76A870024C1C2 /* main.swift */,
 				CE79981E1EF76AAB0024C1C2 /* BradAPI.swift */,
+				CE7998201EF76E570024C1C2 /* TestAPI.swift */,
 			);
 			path = TingKS12;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE7998211EF76E570024C1C2 /* TestAPI.swift in Sources */,
 				CE7998181EF76A870024C1C2 /* main.swift in Sources */,
 				CE79981F1EF76AAB0024C1C2 /* BradAPI.swift in Sources */,
 			);
